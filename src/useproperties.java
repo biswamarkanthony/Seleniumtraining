@@ -14,6 +14,13 @@ public class useproperties {
 	public void settingproperty()
 	{
 		System.setProperty("webdriver.chrome.driver", "C:\\automation\\chromedriver.exe"); 
+
+
+System.out.println("this is just testing addition of lines")
+
+System.out.println("this is just testing addition of lines")
+
+System.out.println("this is just testing addition of lines")
 	}
 	
 	@Test 
